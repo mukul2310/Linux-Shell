@@ -1,2 +1,2 @@
 final:
-	gcc shell.c
+	gcc shell.c -o shell
